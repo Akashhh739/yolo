@@ -1,0 +1,8 @@
+path: /Users/neeru/PycharmProjects/Yolov8/floorplan-yolo
+train: images/train
+val: images/val
+test: images/test  # remove or comment if test set not used
+names:
+  0: wall
+  1: window
+  2: door

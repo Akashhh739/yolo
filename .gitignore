@@ -1,0 +1,19 @@
+# Model training outputs
+runs/
+*.pt
+!yolov8n.pt
+
+# Dataset (too large to commit)
+cubicasa5k/
+floorplan-yolo/images/
+floorplan-yolo/labels/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# IDE & OS
+.idea/
+.vscode/
+.DS_Store

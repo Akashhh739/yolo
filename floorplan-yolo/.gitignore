@@ -1,9 +1,0 @@
-# Ignore large folders and files
-/images/
-/labels/
-cubicasa5k/
-*.svg
-*.png
-*.pt
-*.txt
-*.zip
